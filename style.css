@@ -8,6 +8,7 @@ body{
  .container{
     display: flex;
     height: 80vh;
+    width:100vw;
     flex-direction: row;
     justify-content: center;
     align-items: center;
@@ -28,8 +29,8 @@ h2{
 }
 .playing{
     transform:scale(1.1);
-    border-color:#ffc600;
-    box-shadow:0 0 10px #ffc600;
+    border-color:#FF4500;
+    box-shadow:0 0 10px #FF4500;
 }
 
 kbd{
